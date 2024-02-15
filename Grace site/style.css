@@ -1,0 +1,48 @@
+
+@font-face{
+	font-family:Susahu;
+	src:url(Grace site-Susahu-GOYnD.ttf);
+}
+
+body{
+	background:rgba(255,255,255.1.0);
+	color:rgba(0,0,0,0.7);
+	margin:50px;
+}
+	
+
+p{
+	font-family:Susahu;
+	font-size:20px;
+}
+
+.red-paragraph{
+	color:rgba(243,207,198,1.0);
+	width:1000px;
+}
+
+a{
+	color:lightpink;
+}
+
+a:visited{
+	color:pink;
+}
+
+h1{
+	color:deeppink;
+}
+#twenty-century{
+	font-size:30pt;
+}
+
+#nav{
+	background:lightpink;
+	width:150px;
+	margin:50px;
+	padding:15px;
+}
+
+	#nav a{
+		color:yellow;
+}
